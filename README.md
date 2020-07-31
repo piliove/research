@@ -55,6 +55,6 @@ End
 # 仔细思考
 
 认真的想一下
-read  wirte view thing
+read  write view thing
 
 -------------------------------------------------记于2020年7月31日
