@@ -79,3 +79,9 @@ read  write view thing
 热爱再到热爱
 
 -------------------------------------------------记于2020年8月5日
+
+# live better
+
+I am I, I believe that tomorrow, I believe I can live better.
+
+-------------------------------------------------记于2020年8月6日
