@@ -108,4 +108,6 @@ I am I, I believe that tomorrow, I believe I can live better.
 立  
 志又  
 
+生活仍在继续
+keep alive
 
